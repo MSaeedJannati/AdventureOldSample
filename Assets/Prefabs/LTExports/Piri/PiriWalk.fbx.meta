@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: ce884e120d13e1b4f9d73c07265fe9b4
+timeCreated: 1534932826
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arenj_lt
+    100002: Arenj_rt
+    100004: Gardan
+    100006: Kafdast_lt
+    100008: Kafdast_rt
+    100010: Kolah
+    100012: Lagan_lt
+    100014: Lagan_rt
+    100016: Lkhasere
+    100018: MochDast_lt
+    100020: MochDast_rt
+    100022: MochPa_lt
+    100024: MochPa_rt
+    100026: Mohre1q
+    100028: Mohre2q
+    100030: MohreEDast
+    100032: nurbsCircle1
+    100034: PasyeAngosht_lt
+    100036: PasyeAngosht_rt
+    100038: Piri
+    100040: //RootNode
+    100042: SareShast_lt
+    100044: SareShast_rt
+    100046: Shoone_lt
+    100048: Shoone_rt
+    100050: VasateAngosht_lt
+    100052: VasateAngosht_rt
+    100054: Zanoo_lt
+    100056: Zanoo_rt
+    400000: Arenj_lt
+    400002: Arenj_rt
+    400004: Gardan
+    400006: Kafdast_lt
+    400008: Kafdast_rt
+    400010: Kolah
+    400012: Lagan_lt
+    400014: Lagan_rt
+    400016: Lkhasere
+    400018: MochDast_lt
+    400020: MochDast_rt
+    400022: MochPa_lt
+    400024: MochPa_rt
+    400026: Mohre1q
+    400028: Mohre2q
+    400030: MohreEDast
+    400032: nurbsCircle1
+    400034: PasyeAngosht_lt
+    400036: PasyeAngosht_rt
+    400038: Piri
+    400040: //RootNode
+    400042: SareShast_lt
+    400044: SareShast_rt
+    400046: Shoone_lt
+    400048: Shoone_rt
+    400050: VasateAngosht_lt
+    400052: VasateAngosht_rt
+    400054: Zanoo_lt
+    400056: Zanoo_rt
+    2300000: Kolah
+    3300000: Kolah
+    4300000: Piri
+    4300002: Kolah
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Piri
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

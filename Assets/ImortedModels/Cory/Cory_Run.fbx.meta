@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 7fa3b5eef7eeae444846a856fbc88945
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArenJ_lt
+    100002: ArenJ_rt
+    100004: BadanHandle
+    100006: //RootNode
+    100008: Gardan
+    100010: KafDast_lt
+    100012: KafDast_rt
+    100014: Lagan_lt
+    100016: Lagan_rt
+    100018: LKhasere
+    100020: MochDast_lt
+    100022: MochDast_rt
+    100024: MochPa_lt
+    100026: MochPa_rt
+    100028: Mohre1
+    100030: Pa_lt
+    100032: Pa_rt
+    100034: polySurface14
+    100036: Sar
+    100038: SareAngosht_lt
+    100040: SareAngosht_rt
+    100042: SareShast_lt
+    100044: SareShast_rt
+    100046: Shoone_lt
+    100048: Shoone_rt
+    100050: TaheAngosht_lt
+    100052: TaheAngosht_rt
+    100054: TaheShast_lt
+    100056: TaheShast_rt
+    100058: Targhove
+    100060: VasateShast_lt
+    100062: VasateShast_rt
+    100064: Zanoo_lt
+    100066: Zanoo_rt
+    400000: ArenJ_lt
+    400002: ArenJ_rt
+    400004: BadanHandle
+    400006: //RootNode
+    400008: Gardan
+    400010: KafDast_lt
+    400012: KafDast_rt
+    400014: Lagan_lt
+    400016: Lagan_rt
+    400018: LKhasere
+    400020: MochDast_lt
+    400022: MochDast_rt
+    400024: MochPa_lt
+    400026: MochPa_rt
+    400028: Mohre1
+    400030: Pa_lt
+    400032: Pa_rt
+    400034: polySurface14
+    400036: Sar
+    400038: SareAngosht_lt
+    400040: SareAngosht_rt
+    400042: SareShast_lt
+    400044: SareShast_rt
+    400046: Shoone_lt
+    400048: Shoone_rt
+    400050: TaheAngosht_lt
+    400052: TaheAngosht_rt
+    400054: TaheShast_lt
+    400056: TaheShast_rt
+    400058: Targhove
+    400060: VasateShast_lt
+    400062: VasateShast_rt
+    400064: Zanoo_lt
+    400066: Zanoo_rt
+    4300000: polySurface14
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface14
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 447fd2f788a44a04cba8252be2275cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: fa6f88955d7fd374aa8a13a66cbcbbec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 8c9e19af4041d3e47b3955c502c7c267, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE1
+    second: {fileID: 2100000, guid: 2c237e3160de9df419a5baa482bddd39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 4b0f96a1bf267eb4894c190a7693da85, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BadanHandle
+        weight: 1
+      - path: BadanHandle/LKhasere
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_lt/Zanoo_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_lt/Zanoo_lt/MochPa_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_lt/Zanoo_lt/MochPa_lt/Pa_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_rt/Zanoo_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_rt/Zanoo_rt/MochPa_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Lagan_rt/Zanoo_rt/MochPa_rt/Pa_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Gardan
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Gardan/Sar
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt/SareAngosht_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt/SareAngosht_lt/TaheAngosht_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt/SareShast_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt/SareShast_lt/VasateShast_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_lt/ArenJ_lt/MochDast_lt/KafDast_lt/SareShast_lt/VasateShast_lt/TaheShast_lt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt/SareAngosht_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt/SareAngosht_rt/TaheAngosht_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt/SareShast_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt/SareShast_rt/VasateShast_rt
+        weight: 1
+      - path: BadanHandle/LKhasere/Mohre1/Targhove/Shoone_rt/ArenJ_rt/MochDast_rt/KafDast_rt/SareShast_rt/VasateShast_rt/TaheShast_rt
+        weight: 1
+      - path: polySurface14
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 23af68a8649712e4b955c41391d08903
+timeCreated: 1530351158
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arenj_lt
+    100002: Arenj_rt
+    100004: Armature
+    100006: BalayePa_lt
+    100008: BalayePa_rt
+    100010: //RootNode
+    100012: Cheshm
+    100014: Dom
+    100016: FKLKhasere
+    100018: Gardan
+    100020: Goosh_lt
+    100022: Goosh_rt
+    100024: Ketf_lt
+    100026: Ketf_rt
+    100028: LaganDast_lt
+    100030: LaganDast_rt
+    100032: LaganKhasere
+    100034: LaganPa_lt
+    100036: LaganPa_rt
+    100038: pCube1
+    100040: Sar
+    100042: Targhove
+    100044: Zanoo_lt
+    100046: Zanoo_rt
+    400000: Arenj_lt
+    400002: Arenj_rt
+    400004: Armature
+    400006: BalayePa_lt
+    400008: BalayePa_rt
+    400010: //RootNode
+    400012: Cheshm
+    400014: Dom
+    400016: FKLKhasere
+    400018: Gardan
+    400020: Goosh_lt
+    400022: Goosh_rt
+    400024: Ketf_lt
+    400026: Ketf_rt
+    400028: LaganDast_lt
+    400030: LaganDast_rt
+    400032: LaganKhasere
+    400034: LaganPa_lt
+    400036: LaganPa_rt
+    400038: pCube1
+    400040: Sar
+    400042: Targhove
+    400044: Zanoo_lt
+    400046: Zanoo_rt
+    4300000: pCube1
+    7400000: halt
+    9500000: //RootNode
+    13700000: pCube1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: halt
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FKLKhasere
+        weight: 1
+      - path: FKLKhasere/Armature
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Dom
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_lt/BalayePa_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_lt/BalayePa_lt/Zanoo_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_rt/BalayePa_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/LaganPa_rt/BalayePa_rt/Zanoo_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/Gardan
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/Gardan/Sar
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/Gardan/Sar/Cheshm
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/Gardan/Sar/Cheshm/Goosh_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/Gardan/Sar/Cheshm/Goosh_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_lt/Ketf_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_lt/Ketf_lt/Arenj_lt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_rt/Ketf_rt
+        weight: 1
+      - path: FKLKhasere/Armature/LaganKhasere/Targhove/LaganDast_rt/Ketf_rt/Arenj_rt
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

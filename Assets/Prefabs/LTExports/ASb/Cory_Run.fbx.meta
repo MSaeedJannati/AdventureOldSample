@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 89611e5ec622eee4aaaebc165d81d7c6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArenJ_lt
+    100002: ArenJ_rt
+    100004: BadanHandle
+    100006: //RootNode
+    100008: curve1
+    100010: duplicatedCurve1
+    100012: duplicatedCurve4
+    100014: duplicatedCurve5
+    100016: duplicatedCurve6
+    100018: Gardan
+    100020: group1
+    100022: group2
+    100024: group3
+    100026: group4
+    100028: group5
+    100030: IKMoch_lt
+    100032: IkMoch_rt
+    100034: IKPa_lt
+    100036: IKPa_rt
+    100038: IKZanoo_lt
+    100040: IKZanoo_rt
+    100042: KafDast_lt
+    100044: KafDast_rt
+    100046: Lagan_lt
+    100048: Lagan_rt
+    100050: LKhasere
+    100052: loftedSurface1
+    100054: loftedSurface10
+    100056: loftedSurface2
+    100058: loftedSurface3
+    100060: loftedSurface8
+    100062: loftedSurface9
+    100064: MochDast_lt
+    100066: MochDast_rt
+    100068: MochPa_lt
+    100070: MochPa_rt
+    100072: Mohre1
+    100074: nurbsCircle2
+    100076: nurbsCircle3
+    100078: nurbsCircle4
+    100080: nurbsCircle5
+    100082: nurbsCircle6
+    100084: nurbsCircle7
+    100086: nurbsSphere1
+    100088: Pa_lt
+    100090: Pa_rt
+    100092: polySurface14
+    100094: pSphere1
+    100096: pSphere2
+    100098: revolvedSurface1
+    100100: Sar
+    100102: SareAngosht_lt
+    100104: SareAngosht_rt
+    100106: SareShast_lt
+    100108: SareShast_rt
+    100110: shalvarKamarbandHalghe
+    100112: Shoone_lt
+    100114: Shoone_rt
+    100116: TaheAngosht_lt
+    100118: TaheAngosht_rt
+    100120: TaheShast_lt
+    100122: TaheShast_rt
+    100124: Targhove
+    100126: VasateShast_lt
+    100128: VasateShast_rt
+    100130: Zanoo_lt
+    100132: Zanoo_rt
+    400000: ArenJ_lt
+    400002: ArenJ_rt
+    400004: BadanHandle
+    400006: //RootNode
+    400008: curve1
+    400010: duplicatedCurve1
+    400012: duplicatedCurve4
+    400014: duplicatedCurve5
+    400016: duplicatedCurve6
+    400018: Gardan
+    400020: group1
+    400022: group2
+    400024: group3
+    400026: group4
+    400028: group5
+    400030: IKMoch_lt
+    400032: IkMoch_rt
+    400034: IKPa_lt
+    400036: IKPa_rt
+    400038: IKZanoo_lt
+    400040: IKZanoo_rt
+    400042: KafDast_lt
+    400044: KafDast_rt
+    400046: Lagan_lt
+    400048: Lagan_rt
+    400050: LKhasere
+    400052: loftedSurface1
+    400054: loftedSurface10
+    400056: loftedSurface2
+    400058: loftedSurface3
+    400060: loftedSurface8
+    400062: loftedSurface9
+    400064: MochDast_lt
+    400066: MochDast_rt
+    400068: MochPa_lt
+    400070: MochPa_rt
+    400072: Mohre1
+    400074: nurbsCircle2
+    400076: nurbsCircle3
+    400078: nurbsCircle4
+    400080: nurbsCircle5
+    400082: nurbsCircle6
+    400084: nurbsCircle7
+    400086: nurbsSphere1
+    400088: Pa_lt
+    400090: Pa_rt
+    400092: polySurface14
+    400094: pSphere1
+    400096: pSphere2
+    400098: revolvedSurface1
+    400100: Sar
+    400102: SareAngosht_lt
+    400104: SareAngosht_rt
+    400106: SareShast_lt
+    400108: SareShast_rt
+    400110: shalvarKamarbandHalghe
+    400112: Shoone_lt
+    400114: Shoone_rt
+    400116: TaheAngosht_lt
+    400118: TaheAngosht_rt
+    400120: TaheShast_lt
+    400122: TaheShast_rt
+    400124: Targhove
+    400126: VasateShast_lt
+    400128: VasateShast_rt
+    400130: Zanoo_lt
+    400132: Zanoo_rt
+    2300000: pSphere1
+    2300002: pSphere2
+    3300000: pSphere1
+    3300002: pSphere2
+    4300000: polySurface14
+    4300002: pSphere2
+    4300004: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface14
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: a762b093411a02d46968b6503c536131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: cfe65c0d1f13fbf4c91584e7e442040d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: a9a3e5f24487c464185eaf119fc09a7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE1
+    second: {fileID: 2100000, guid: 4125033a6da75394d8d3efd64e4a5f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 9929e80679ecfa641b3a4d33aad41530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE3
+    second: {fileID: 2100000, guid: 29d4b902e29094b4a887957d854b64a2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: eeb3e6cea31ea1c4491e8408d87cb940
+timeCreated: 1530347017
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arenj_lt
+    100002: Arenj_lt 1
+    100004: Arenj_rt
+    100006: Arenj_rt 1
+    100008: Armature
+    100010: Armature.001
+    100012: BalayePa_lt
+    100014: BalayePa_lt 1
+    100016: BalayePa_rt
+    100018: BalayePa_rt 1
+    100020: //RootNode
+    100022: Camera
+    100024: Cheshm
+    100026: Cheshm 1
+    100028: Dom
+    100030: Dom 1
+    100032: FKLKhasere
+    100034: Gardan
+    100036: Gardan 1
+    100038: Goosh_lt
+    100040: Goosh_lt 1
+    100042: Goosh_rt
+    100044: Goosh_rt 1
+    100046: Ketf_lt
+    100048: Ketf_lt 1
+    100050: Ketf_rt
+    100052: Ketf_rt 1
+    100054: LaganDast_lt
+    100056: LaganDast_lt 1
+    100058: LaganDast_rt
+    100060: LaganDast_rt 1
+    100062: LaganKhasere
+    100064: LaganKhasere 1
+    100066: LaganPa_lt
+    100068: LaganPa_lt 1
+    100070: LaganPa_rt
+    100072: LaganPa_rt 1
+    100074: Lamp
+    100076: Pa_lt
+    100078: Pa_lt 1
+    100080: Pa_lt_end
+    100082: Pa_lt_end 1
+    100084: Pa_rt
+    100086: Pa_rt 1
+    100088: Pa_rt_end
+    100090: Pa_rt_end 1
+    100092: pCube1
+    100094: pCube1.001
+    100096: pSphere1
+    100098: pSphere1.001
+    100100: pSphere2
+    100102: pSphere2.001
+    100104: Sar
+    100106: Sar 1
+    100108: TahDast_lt
+    100110: TahDast_lt 1
+    100112: TahDast_lt_end
+    100114: TahDast_lt_end 1
+    100116: TahDast_rt
+    100118: TahDast_rt 1
+    100120: TahDast_rt_end
+    100122: TahDast_rt_end 1
+    100124: TaheDom
+    100126: TaheDom 1
+    100128: TaheDom_end
+    100130: TaheDom_end 1
+    100132: TaheGoosh_lt
+    100134: TaheGoosh_lt 1
+    100136: TaheGoosh_lt_end
+    100138: TaheGoosh_lt_end 1
+    100140: TaheGoosh_rt
+    100142: TaheGoosh_rt 1
+    100144: TaheGoosh_rt_end
+    100146: TaheGoosh_rt_end 1
+    100148: TaheSar
+    100150: TaheSar 1
+    100152: TaheSar_end
+    100154: TaheSar_end 1
+    100156: Targhove
+    100158: Targhove 1
+    100160: Zanoo_lt
+    100162: Zanoo_lt 1
+    100164: Zanoo_rt
+    100166: Zanoo_rt 1
+    400000: Arenj_lt
+    400002: Arenj_lt 1
+    400004: Arenj_rt
+    400006: Arenj_rt 1
+    400008: Armature
+    400010: Armature.001
+    400012: BalayePa_lt
+    400014: BalayePa_lt 1
+    400016: BalayePa_rt
+    400018: BalayePa_rt 1
+    400020: //RootNode
+    400022: Camera
+    400024: Cheshm
+    400026: Cheshm 1
+    400028: Dom
+    400030: Dom 1
+    400032: FKLKhasere
+    400034: Gardan
+    400036: Gardan 1
+    400038: Goosh_lt
+    400040: Goosh_lt 1
+    400042: Goosh_rt
+    400044: Goosh_rt 1
+    400046: Ketf_lt
+    400048: Ketf_lt 1
+    400050: Ketf_rt
+    400052: Ketf_rt 1
+    400054: LaganDast_lt
+    400056: LaganDast_lt 1
+    400058: LaganDast_rt
+    400060: LaganDast_rt 1
+    400062: LaganKhasere
+    400064: LaganKhasere 1
+    400066: LaganPa_lt
+    400068: LaganPa_lt 1
+    400070: LaganPa_rt
+    400072: LaganPa_rt 1
+    400074: Lamp
+    400076: Pa_lt
+    400078: Pa_lt 1
+    400080: Pa_lt_end
+    400082: Pa_lt_end 1
+    400084: Pa_rt
+    400086: Pa_rt 1
+    400088: Pa_rt_end
+    400090: Pa_rt_end 1
+    400092: pCube1
+    400094: pCube1.001
+    400096: pSphere1
+    400098: pSphere1.001
+    400100: pSphere2
+    400102: pSphere2.001
+    400104: Sar
+    400106: Sar 1
+    400108: TahDast_lt
+    400110: TahDast_lt 1
+    400112: TahDast_lt_end
+    400114: TahDast_lt_end 1
+    400116: TahDast_rt
+    400118: TahDast_rt 1
+    400120: TahDast_rt_end
+    400122: TahDast_rt_end 1
+    400124: TaheDom
+    400126: TaheDom 1
+    400128: TaheDom_end
+    400130: TaheDom_end 1
+    400132: TaheGoosh_lt
+    400134: TaheGoosh_lt 1
+    400136: TaheGoosh_lt_end
+    400138: TaheGoosh_lt_end 1
+    400140: TaheGoosh_rt
+    400142: TaheGoosh_rt 1
+    400144: TaheGoosh_rt_end
+    400146: TaheGoosh_rt_end 1
+    400148: TaheSar
+    400150: TaheSar 1
+    400152: TaheSar_end
+    400154: TaheSar_end 1
+    400156: Targhove
+    400158: Targhove 1
+    400160: Zanoo_lt
+    400162: Zanoo_lt 1
+    400164: Zanoo_rt
+    400166: Zanoo_rt 1
+    2300000: pSphere1
+    2300002: pSphere1.001
+    2300004: pSphere2
+    2300006: pSphere2.001
+    3300000: pSphere1
+    3300002: pSphere1.001
+    3300004: pSphere2
+    3300006: pSphere2.001
+    4300000: pCube1.001
+    4300002: pSphere1.001
+    4300004: pSphere2.001
+    4300006: pSphere1
+    4300008: pSphere2
+    4300010: pCube1
+    7400000: FKLKhasere|FKLKhasere|Take 001|BaseLayer
+    7400002: Armature.001|Armature.001|Take 001|BaseLayer
+    7400004: Armature.001|Armature|Take 001|BaseLayer
+    7400006: Armature.001|FKLKhasere|Take 001|BaseLayer
+    7400008: Armature|Armature.001|Take 001|BaseLayer
+    7400010: Armature|Armature|Take 001|BaseLayer
+    7400012: Armature|FKLKhasere|Take 001|BaseLayer
+    9500000: //RootNode
+    13700000: pCube1
+    13700002: pCube1.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

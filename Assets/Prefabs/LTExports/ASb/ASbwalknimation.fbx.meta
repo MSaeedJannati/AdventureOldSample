@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 682046a3ca09a5e4086d23d6676f39b6
+timeCreated: 1535364964
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arenj_lt
+    100002: Arenj_rt
+    100004: //RootNode
+    100006: Dast_lt
+    100008: Dast_rt
+    100010: Dom1
+    100012: Dom2
+    100014: Dom3
+    100016: DomTah
+    100018: Gardan
+    100020: Goosh_lt
+    100022: Goosh_rt
+    100024: IKDast_lt
+    100026: IKDast_rt
+    100028: ikHandle1
+    100030: ikHandle2
+    100032: ikHandle3
+    100034: ikHandle4
+    100036: IKPa_lt
+    100038: IKPa_rt
+    100040: Ketf_lt
+    100042: Ketf_rt
+    100044: Lagan_lt
+    100046: Lagan_rt
+    100048: LKhasere
+    100050: Mohre1
+    100052: Pa_lt
+    100054: Pa_rt
+    100056: pCube1
+    100058: Sar
+    100060: TaheGoosh_lt
+    100062: TaheGoosh_rt
+    100064: TaheSar
+    100066: Targhove
+    100068: Zanoo_lt
+    100070: Zanoo_rt
+    400000: Arenj_lt
+    400002: Arenj_rt
+    400004: //RootNode
+    400006: Dast_lt
+    400008: Dast_rt
+    400010: Dom1
+    400012: Dom2
+    400014: Dom3
+    400016: DomTah
+    400018: Gardan
+    400020: Goosh_lt
+    400022: Goosh_rt
+    400024: IKDast_lt
+    400026: IKDast_rt
+    400028: ikHandle1
+    400030: ikHandle2
+    400032: ikHandle3
+    400034: ikHandle4
+    400036: IKPa_lt
+    400038: IKPa_rt
+    400040: Ketf_lt
+    400042: Ketf_rt
+    400044: Lagan_lt
+    400046: Lagan_rt
+    400048: LKhasere
+    400050: Mohre1
+    400052: Pa_lt
+    400054: Pa_rt
+    400056: pCube1
+    400058: Sar
+    400060: TaheGoosh_lt
+    400062: TaheGoosh_rt
+    400064: TaheSar
+    400066: Targhove
+    400068: Zanoo_lt
+    400070: Zanoo_rt
+    4300000: pCube1
+    7400000: Walk1
+    9500000: //RootNode
+    13700000: pCube1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: LKhasere
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk1
+      takeName: Walk1
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: IKDast_lt
+        weight: 1
+      - path: IKDast_lt/ikHandle4
+        weight: 1
+      - path: IKDast_rt
+        weight: 1
+      - path: IKDast_rt/ikHandle3
+        weight: 1
+      - path: IKPa_lt
+        weight: 1
+      - path: IKPa_lt/ikHandle1
+        weight: 1
+      - path: IKPa_rt
+        weight: 1
+      - path: IKPa_rt/ikHandle2
+        weight: 1
+      - path: LKhasere
+        weight: 1
+      - path: LKhasere/Dom1
+        weight: 1
+      - path: LKhasere/Dom1/Dom2
+        weight: 1
+      - path: LKhasere/Dom1/Dom2/Dom3
+        weight: 1
+      - path: LKhasere/Dom1/Dom2/Dom3/DomTah
+        weight: 1
+      - path: LKhasere/Lagan_lt
+        weight: 1
+      - path: LKhasere/Lagan_lt/Zanoo_lt
+        weight: 1
+      - path: LKhasere/Lagan_lt/Zanoo_lt/Pa_lt
+        weight: 1
+      - path: LKhasere/Lagan_rt
+        weight: 1
+      - path: LKhasere/Lagan_rt/Zanoo_rt
+        weight: 1
+      - path: LKhasere/Lagan_rt/Zanoo_rt/Pa_rt
+        weight: 1
+      - path: LKhasere/Mohre1
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar/Goosh_lt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar/Goosh_lt/TaheGoosh_lt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar/Goosh_rt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar/Goosh_rt/TaheGoosh_rt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Gardan/Sar/TaheSar
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_lt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_lt/Arenj_lt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_lt/Arenj_lt/Dast_lt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_rt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_rt/Arenj_rt
+        weight: 1
+      - path: LKhasere/Mohre1/Targhove/Ketf_rt/Arenj_rt/Dast_rt
+        weight: 1
+      - path: pCube1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
